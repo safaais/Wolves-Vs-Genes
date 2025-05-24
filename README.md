@@ -19,3 +19,5 @@ This project compares Genetic Algorithm (GA) and a simple binary Grey Wolf Optim
 
 
 ### Result 
+![Performance](image.png)
+![Comparison](image.png)
